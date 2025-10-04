@@ -1,0 +1,7 @@
+for the admin login 
+username: admin
+password :1234
+
+for the regular employee login 
+username:sawsan123
+password:Sawsan123!
